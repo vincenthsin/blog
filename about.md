@@ -1,18 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+description: This is what I do.
+background: '/img/bg-about.jpg'
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<p>追求民主，向往自由</p>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<p>我要努力做一些事情，只是为了让这个世界变得更加真实和美好</p>
