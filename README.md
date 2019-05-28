@@ -1,4 +1,4 @@
 # blog
-Record what i am thinking about.
+Record what i'm thinking about.
 
 不要埋葬好奇，不能拒绝思考，所谓的权威也不一定都对。
