@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 普适规律
