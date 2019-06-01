@@ -17,8 +17,8 @@ title: Never stop thinking
 email: xinwei0432@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Stay curious
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://blog.idiosoul.world/blog" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://blog.idiosoul.world" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 立十戌女
 github_username: freeman0432
 facebook_username: 立十戌女
