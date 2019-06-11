@@ -1,7 +1,7 @@
 ---
 layout: post
-title: history & story
-subtitle: 历史和故事
+title: neglected
+subtitle: 被忽视
 date: 2019-06-11 23:08:00 +0800
 ---
 
