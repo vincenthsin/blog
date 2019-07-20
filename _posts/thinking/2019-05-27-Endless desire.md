@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 多多益善
+title: 多多益善吗？
 subtitle: 无尽的欲望
 date: 2019-05-27 22:36:00 +0800
 ---
