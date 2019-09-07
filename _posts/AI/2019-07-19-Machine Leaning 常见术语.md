@@ -15,7 +15,8 @@ date: 2019-07-19 22:15:00 +0800
 
 模型
 
-回归模型（预测连续值） 分类模型（预测离散值）
+- 回归模型（预测连续值） 
+- 分类模型（预测离散值）
 
 推断
 
@@ -27,4 +28,7 @@ date: 2019-07-19 22:15:00 +0800
 - ReLU: An activation function that allows a model to solve nonlinear problems
 - Softmax: A function that provides probabilities for each possible output class
 - Classification: A machine learning model used for distinguishing among two or more output categories
+
+CNNs: Convolutional neural network.
+Maxpooling
 
