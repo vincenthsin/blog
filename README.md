@@ -1,4 +1,2 @@
-# blog
-Record what i'm thinking about.
-
+# idiosoul-blog
 不要埋葬好奇，不能拒绝思考，所谓的权威也不一定都对。
