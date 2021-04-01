@@ -20,8 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.idiosoul.world" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: freeman0432
-github_username: freeman0432
-facebook_username: freeman0432
+github_username: idiosoul
+facebook_username: vincent.chi.hsin
 
 # Build settings
 markdown: kramdown
