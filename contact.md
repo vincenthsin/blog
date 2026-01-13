@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Me
-description: Have questions? I have answers.
+description: Any questions? Questions matter more than answers!
 background: '/img/bg-contact.jpg'
 form: true
 ---

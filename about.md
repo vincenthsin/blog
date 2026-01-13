@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About Me
-description: This is what I do.
+permalink: /about/
+description: This is what I love.
 background: '/img/bg-about.jpg'
 ---
 <p>独立之精神，自由之思想</p>
